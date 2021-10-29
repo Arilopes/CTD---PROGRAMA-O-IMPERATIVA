@@ -88,12 +88,10 @@ TipoParam(10);
 
 function circunferencia(raio) {
 
-     console.log(2*Math.PI*raio)
+     console.log ("A circunferência é", (2*Math.PI*raio))
 
 }
-circunferencia(30)
 
-
-
+circunferencia (1);
 
 
